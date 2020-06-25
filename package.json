@@ -1,0 +1,12 @@
+{
+  "name": "aoc2018",
+  "version": "1.0.0",
+  "description": "Advent Of Code 2018",
+  "main": "aoc01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brse",
+  "license": "ISC",
+  "dependencies": {}
+}
